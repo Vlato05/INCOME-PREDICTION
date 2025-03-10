@@ -1,0 +1,2 @@
+# INCOME-PREDICTION
+Parcial 1 

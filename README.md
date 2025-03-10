@@ -12,7 +12,3 @@ El cuaderno incluye análisis exploratorio de datos (EDA), preprocesamiento y ev
 - `income_prediction.ipynb` → Cuaderno de Jupyter con el código.
 - `README.md` → Este archivo con la documentación del proyecto.
 
-##  Instalación y Uso
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
